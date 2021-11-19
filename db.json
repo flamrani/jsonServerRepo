@@ -1,0 +1,22 @@
+{
+	"code": "RT2",
+	"libelleCourt": "RT2",
+	"libelleLong": "RT2 libelle long",
+	"bureauParent": {
+		"code": "RT1",
+		"libelleCourt": "RT1",
+		"libelleLong": "",
+		"referent": {
+			"nom": "Daniel",
+			"prenom": "martil"
+		},
+		"actifString":"OUI",
+		"actif": true
+	},
+	"referent": {
+		"nom": "lamrani",
+		"prenom": "fatima"
+	},
+	"actifString":"OUI",
+	"actif": true
+}
