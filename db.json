@@ -1,5 +1,7 @@
-[
 {
+"bureaux":
+[
+	{
 	"code": "RT2",
 	"libelleCourt": "RT2",
 	"libelleLong": "RT2 libelle long",
@@ -22,3 +24,4 @@
 	"actif": true
 }
 ]
+}
