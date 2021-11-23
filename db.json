@@ -27,6 +27,17 @@
 	"code": "RT1",
 	"libelleCourt": "RT1",
 	"libelleLong": "RT1 libelle long",
+	"bureauParent": {
+		"code": "",
+		"libelleCourt": "",
+		"libelleLong": "",
+		"referent": {
+			"nom": "",
+			"prenom": ""
+		},
+		"actifString":"",
+		"actif": true
+	},
 	"referent": {
 		"nom": "lamrani",
 		"prenom": "yousrra"
