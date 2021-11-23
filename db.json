@@ -22,6 +22,17 @@
 	},
 	"actifString":"OUI",
 	"actif": true
+},
+{
+	"code": "RT1",
+	"libelleCourt": "RT1",
+	"libelleLong": "RT1 libelle long",
+	"referent": {
+		"nom": "lamrani",
+		"prenom": "yousrra"
+	},
+	"actifString":"OUI",
+	"actif": true
 }
 ]
 }
